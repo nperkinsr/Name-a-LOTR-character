@@ -4,4 +4,4 @@ This is the first time working with arrays in the development bootcamp. You just
 
 https://nperkinsr.github.io/Name-a-LOTR-character/
 
-![Screenshot 2025-02-18 at 22 27 39](https://github.com/user-attachments/assets/520f21d0-f5c4-46bb-9745-82f838d9885d)
+![Screenshot 2025-02-23 at 14 40 49](https://github.com/user-attachments/assets/d43f405a-1478-4201-b025-cb87d1951e1c)
