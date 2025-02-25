@@ -1,9 +1,9 @@
 :root {
   --color1: #000000; /* Black */
   --color2: #ffffff; /* White */
-  --color3: #4e275c; /* Dark Blue */
-  --color4: #2f0e39; /* Lighter Blue */
-  --color5: #f53100; /* Dark Orange */
+  --color3: #252a34; /* Dark Blue */
+  --color4: #313847; /* Lighter Blue */
+  --color5: #ff3198; /* Dark Orange */
   --color6: #d1d1d5; /* Grey */
 }
 
@@ -24,6 +24,7 @@ body {
   border-radius: 10px;
   overflow: hidden;
   font-family: Arial, sans-serif;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
 
 .top {
