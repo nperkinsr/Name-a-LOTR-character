@@ -1,6 +1,9 @@
 # Name a LOTR character
+This is a small project made to practise checking if a specific value exists within an array. Users are prompted to input the name of a character from The _Lord of the Rings_ and click the **Check** button. The script will then verify if the entered name matches any of the characters in the predefined array.
 
-This is the first time working with arrays in the development bootcamp. You just have to name a LOTR character and check if the answer is in the array.
+If the character exists, the app displays a positive message; if not, it gives a wrong message.
+
+This project is a good way to practise working with arrays, conditionals, and basic user interaction.
 
 https://nperkinsr.github.io/Name-a-LOTR-character/
 
